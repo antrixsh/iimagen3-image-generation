@@ -16,3 +16,10 @@ This repository demonstrates how to generate high-quality images using **Google 
 ```sh
 git clone https://github.com/yourusername/imagen3-image-generation.git
 cd imagen3-image-generation
+
+pip install -r requirements.txt
+
+from google.colab import auth
+auth.authenticate_user()
+
+jupyter notebook notebooks/imagen3_image_generation.ipynb
