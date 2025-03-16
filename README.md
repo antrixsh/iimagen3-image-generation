@@ -7,3 +7,12 @@ This repository demonstrates how to generate high-quality images using **Google 
 ✅ Generates **photorealistic AI-generated images**  
 ✅ Simple **Python API usage**  
 ✅ Works on **Google Colab & local Jupyter Notebook**
+
+
+---
+
+## 🎯 **Setup & Installation**
+### 1️⃣ Clone the Repository  
+```sh
+git clone https://github.com/yourusername/imagen3-image-generation.git
+cd imagen3-image-generation
